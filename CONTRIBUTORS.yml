@@ -619,15 +619,17 @@ contributors:
     status: active
     roles: [bounty-hunter, stargazer]
 
-  - github: null
-    display_name: "newffnow-github"
+  - github: newffnow
+    display_name: "刘颖 (Liu Ying) / 高志阳"
     type: human
     wallet: newffnow-github
-    repos: []
+    wallets_alt: [RTC6dc72fa4c125ac64596249fb90465f257346f225]
+    repos: [rustchain-bounties]
     total_rtc_earned: 167.50
     join_date: "2026-01-10"
     status: active
     roles: [bounty-hunter, stargazer]
+    notes: "AI assistant bounty hunter. Automated PR submissions."
 
   - github: null
     display_name: "hriszc"
